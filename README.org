@@ -4,6 +4,8 @@
 
 
 
+keywords: [[https://srfi.schemers.org/?keywords=syntax][Syntax]], [[https://srfi.schemers.org/?keywords=r6rs-process][R6RS process]]
+
 This repository hosts [[https://srfi.schemers.org/srfi-93/][SRFI 93]]: R6RS Syntax-Case Macros, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
 This SRFI is in /withdrawn/ status.
