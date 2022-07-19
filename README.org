@@ -10,7 +10,7 @@ This repository hosts [[https://srfi.schemers.org/srfi-93/][SRFI 93]]: R6RS Synt
 
 This SRFI is in /withdrawn/ status.
 
-See also [[https://srfi.schemers.org/srfi-188/][SRFI 188: Splicing binding constructs for syntactic keywords]].
+See also [[https://srfi.schemers.org/srfi-188/][SRFI 188: Splicing binding constructs for syntactic keywords]] and [[https://srfi.schemers.org/srfi-211/][SRFI 211: Scheme Macro Libraries]].
 
 The full documentation for this SRFI can be found in the [[https://srfi.schemers.org/srfi-93/srfi-93.html][SRFI Document]].
 
